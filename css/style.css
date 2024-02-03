@@ -4,7 +4,7 @@ body{
 	margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Arial, Verdana;
 }
 
 h1{
@@ -106,9 +106,8 @@ footer {
 }
 
 footer p {
-    padding-top: 15px;
-    padding-right: 15px;
-    padding-bottom: 15px;
+    padding: 15px;
+    padding-left: 0px;
     font-size: 20px;
     text-align: right;
 }
